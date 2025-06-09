@@ -141,11 +141,11 @@ Feste Vigiliane
 
 | Time | Topic | Lecturers |
 | :---- | :---- | :---- |
-|   9.15am-10.00am | Rodeo algorithm for nuclear eigenvalue problems, part 1 [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/MondayJune30/) | Dean |
+|   9.15am-10.00am | Adiabatic state preparation and related approaches, part 1 [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/MondayJune30/) | Dean |
 | 10.00am-10.15am | Break |  |
-| 10.15am-11.00am | Rodeo algorithm for nuclear eigenvalue problems, part 2 [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/MondayJune30/) | Dean |
+| 10.15am-11.00am | Adiabatic state preparation and related approaches, part 2 [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/MondayJune30/) | Dean |
 | 11.00am-11.30am | Coffee break |  |
-| 11.30am-12.15pm | Implementing the Rodeo algorithm [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/MondayJune30/) | Dean |
+| 11.30am-12.15pm | Implementing adiabatic state preparation and related approaches [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/MondayJune30/) | Dean |
 | 12.15pm-  2.30pm | Lunch |  |
 |   2.30pm-  6.00pm | Exercises on … |  |
 
@@ -177,11 +177,11 @@ Feste Vigiliane
 
 | Time | Topic | Lecturers |
 | :---- | :---- | :---- |
-|   9.15am-10.00am | Encoding (relativistic and nonrelativistic) fermions and bosons on quantum computers, part 1 [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/ThursdayJuly3/) | Dean |
+|   9.15am-10.00am | Rodeo algorithm and related approaches, part 1 [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/ThursdayJuly3/) | Dean |
 | 10.00am-10.15am | Break |  |
-| 10.15am-11.00am | Encoding (relativistic and nonrelativistic) fermions and bosons on quantum computers, part 2 [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/ThursdayJuly3/) | Dea |
+| 10.15am-11.00am | Rodeo algorithm and related approaches, part 2 [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/ThursdayJuly3/) | Dean |
 | 11.00am-11.30am | Coffee break |  |
-| 11.30am-12.15pm | Adiabatic state preparation [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/ThursdayJuly3/) | Dean |
+| 11.30am-12.15pm | Implementing the rodeo algorithm and related approaches [Lecture material](https://github.com/NuclearTalent/TalentQuantumComputingECT2025/blob/main/doc/pub/ThursdayJuly3/) | Dean |
 | 12.15pm-  2.30pm | Lunch |  |
 |   2.30pm-  6.00pm | Exercises on … |  |
 
